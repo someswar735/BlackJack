@@ -18,8 +18,11 @@ cd blackjack-game
 
 Usage
 Open the index.html file in your web browser.
+
 Click the "START GAME" button to start a new game.
+
 Click the "NEW CARD" button to draw a new card.
+
 Try to get as close to 21 as possible without going over!
 
 Thank You,
