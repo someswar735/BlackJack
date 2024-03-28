@@ -16,7 +16,8 @@ git clone https://github.com/someswar735/BlackJack.git
 Navigate to the project directory:
 cd blackjack-game
 
-Usage
+Usage:
+
 Open the index.html file in your web browser.
 
 Click the "START GAME" button to start a new game.
