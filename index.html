@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blackjack</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1>Blackjack</h1>
+    <p id="message-el">Want to play a round?</p>
+    <h2 id="cards-el">Cards:</h2>
+    <h3 id="sum-el">Sum:</h3>
+    <button onclick="startGame()">START GAME</button>
+    <button onclick="newCard()">NEW CARD</button>
+    <h4 id="player-el"></h4>
+    <select id="theme-select" onchange="changeTheme()">
+        <option value="default">Default</option>
+        <option value="dark">Dark</option>
+        <option value="light">Light</option>
+    </select>
+    <audio id="card-flip-sound" src="card.wav"></audio>
+    <audio id="outOfJack-sound" src="outOfJack.wav"></audio>
+    <audio id="blackjack-sound" src="blackJack.wav"></audio>
+    <script src="index.js"></script>
+</body>
+</html>
