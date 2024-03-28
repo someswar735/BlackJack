@@ -23,4 +23,4 @@ Click the "NEW CARD" button to draw a new card.
 Try to get as close to 21 as possible without going over!
 
 Thank You,
-Someswar SIvakavi.
+Someswar Sivakavi.
