@@ -11,7 +11,7 @@ Simple and intuitive user interface.
 Installation:
 
 Clone the repository:
-git clone https://github.com/someswar735/blackjack-game.git
+git clone https://github.com/someswar735/BlackJack.git
 
 Navigate to the project directory:
 cd blackjack-game
